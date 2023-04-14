@@ -9,7 +9,7 @@ import time
 import subprocess
 
 
-wifi_name = "UM_PUBLIC_WIFI"  # name of the Wifi, eg: "UM_SECURED_WLAN_5G", "UM_SECURED_WLAN"
+wifi_name = "UM_SECURED_WLAN"  # name of the Wifi, eg: "UM_SECURED_WLAN_5G", "UM_PUBLIC_WIFI"
 interval = 10  # the interval in seconds for checking the network state
 
 
