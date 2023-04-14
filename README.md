@@ -17,9 +17,10 @@ Reconnect your Wifi when it's down.
 ### Advantages
 
 **Fast**: Helps you download files stably in some unstable network, eg.: Campus Wifi.
-**Smart**: Helps you to automatically reconnect when the net is down.
-**Secure**: Profile-based make it Secure and safe as the script won't expose your password or any private information.
 
+**Smart**: Helps you to automatically reconnect when the net is down.
+
+**Secure**: Profile-based make it Secure and safe as the script won't expose your password or any private information.
 
 ### Disadvantages
 
